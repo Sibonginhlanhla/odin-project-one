@@ -92,3 +92,24 @@ div.section-three h1 {
     font-style: italic;
     text-align: center;
 }
+
+.section-four {
+    background-color: #3882F6;
+    display: flex;
+    margin: 30px;
+    justify-content: center;
+    border-radius: 2px;
+    width: 1140px;
+    justify-content: space-between;
+    margin-inline: 20px;
+    padding-inline: 10px;
+}
+
+footer {
+    background-color: #1F2937;
+    text-align: center;
+    color: white;
+    padding: 17px;
+    justify-content: center;
+    align-items: center;
+}
